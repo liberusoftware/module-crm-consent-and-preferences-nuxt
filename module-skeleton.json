@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-consent-and-preferences-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-consent-and-preferences",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-consent-and-preferences-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/consent-and-preferences.md",
+  "presentationPlan": "projects/crm/nuxt/consent-and-preferences.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
